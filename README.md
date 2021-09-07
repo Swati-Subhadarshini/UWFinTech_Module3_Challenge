@@ -73,6 +73,7 @@ profit_per_trade_early.plot()
 cumulative_profit_early = profit_per_trade_early.cumsum()
 cumulative_profit_early.plot(figsize= (10,7), title="Cumulative Crypto Profits")
 ```
+The Jupyter notebook contains the analysis report of the project with data and visulization.
 
 ## Contributors
 
